@@ -156,7 +156,4 @@
 </p>
 <br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=accelerator-one&show_icons=true&locale=en" alt="accelerator-one" /></p>
-<br/>  
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=accelerator-one&" alt="accelerator-one" /></p>
