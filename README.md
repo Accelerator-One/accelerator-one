@@ -1,18 +1,9 @@
-<h1 align="center"> Hi 👋, I'm Aditya </h1>
-<h3 align="center"> Just an airhead learning random stuff </h3>
-<br/>  
-
-- 🔭 Looking for **technical growth**
-
-- 👨‍ Currently using **GCP** as my cloud provider for personal projects
-
-- 💻 Some of my closed source projects are available on [Google Play](https://play.google.com/store/apps/dev?id=7777900588073928535)
-
-- 📫 You can reach out to me on [Linkedin](https://www.linkedin.com/in/accelerator-one/)
+<h2 align="center"> Hi 👋, I'm Aditya </h2>
+<p align="center"> Currently working as a Software Engineer (WFH) 🙂 </p>
 
 <br/>
 
-<h3 align="left">Problem solving</h3>
+<h3 align="left">Problem Solving</h3>
 <p align="left">
 
 <a href="https://www.leetcode.com/https://leetcode.com/aditya_thakur/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/aditya_thakur/" height="30" width="40" /></a> <a href="https://www.hackerrank.com/https://www.hackerrank.com/obscurer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/obscurer" height="30" width="40" /></a> <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/aditya_thakur/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://auth.geeksforgeeks.org/user/aditya_thakur/profile" height="30" width="40" /></a>
@@ -20,7 +11,7 @@
 </p>
 <br/>
 
-<h3 align="left">Languages and tools</h3>
+<h3 align="left">Languages & Tools</h3>
 <p align="left" style="margin:2em">
 
   <!-- html -->
@@ -41,10 +32,22 @@
       alt="javascript" width="40" height="40" />
   </a>
 
+  <!-- typescript -->
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+      alt="typescript" width="40" height="40" />
+  </a>
+
   <!-- react -->
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" />
+  </a>
+
+  <!-- angular -->
+  <a href="https://angular.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
+      alt="angular" width="40" height="40" />
   </a>
 
   <!-- materialize -->
@@ -78,6 +81,8 @@
       alt="mongodb" width="40" height="40" />
   </a>
 
+<br />
+  
   <!-- mysql -->
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
@@ -89,8 +94,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
       alt="redis" width="40" height="40" />
   </a>
-
-  <br />
 
   <!-- git -->
   <a href="https://git-scm.com/" target="_blank">
@@ -140,17 +143,6 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
       alt="cplusplus" width="40" height="40" />
-  </a>
-
-  <!-- java -->
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-      width="40" height="40" />
-  </a>
-
-  <!-- spring boot -->
-  <a href="https://spring.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
   </a>
 
 </p>
